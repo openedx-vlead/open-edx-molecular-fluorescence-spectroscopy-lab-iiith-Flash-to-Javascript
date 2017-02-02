@@ -1,0 +1,15 @@
+<course display_name="Molecular Fluorescence Spectroscopy">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="_Introduction_to_the_fluorescence_spectroscopy_principle__"/>
+  <chapter url_name="_Familiarization_with_the_fluorescence_instrumentation_"/>
+  <chapter url_name="_Familiarization_with_Excitation_and_Emission_Spectra_Mirror_Image_Relation_and_Stokes_Shift__"/>
+  <chapter url_name="_Demonstration_of_Solvent_Effects_on_Fluorescence_Spectra_of_a_Fluorophore_"/>
+  <chapter url_name="_Demonstration_of_pH_Effect_on_Fluorescence_Excitation_and_Emission_Spectra_of_a_Fluorophore"/>
+  <chapter url_name="Effects_of_Fluorophore_Concentration_on_Fluorescence_Spectra-Inner_Filter_Effects_"/>
+  <chapter url_name="_Relationship_between_the_Concentration_of_a_Fluorophore_and_its_Fluorescence_Intensity-_Determination_of_Unknown_Concentration_of_an_Analyte__"/>
+  <chapter url_name="_Determination_of_Fluorescence_Quantum_Yield_of_a_Fluorophore_"/>
+  <chapter url_name="_Fluorescence_Quenching_and_Stern-Volmer_Plot-Estimation_of_the_Quenching_Constant_from_Stern-Volmer_Plot_"/>
+  <chapter url_name="Effects_of_Excimer_and_Exciplex_Formations_on_Fluorescence_Emission_"/>
+  <chapter url_name="a1451cc2cd0344d58211c0f54dd30cbb"/>
+  <wiki slug="IIIT-Hyderabad.CCNSB01.Anytime"/>
+</course>

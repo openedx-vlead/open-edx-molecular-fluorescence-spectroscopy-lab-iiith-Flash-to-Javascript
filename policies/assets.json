@@ -1,0 +1,26 @@
+{
+    "molcular-flourescence-spectroscopy-iiith.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CCNSB01", 
+            "name": "molcular-flourescence-spectroscopy-iiith.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "molcular-flourescence-spectroscopy-iiith.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CCNSB01+Anytime+type@asset+block@molcular-flourescence-spectroscopy-iiith.jpg", 
+        "import_path": "molcular-flourescence-spectroscopy-iiith.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CCNSB01", 
+            "thumbnail", 
+            "molcular-flourescence-spectroscopy-iiith.jpg", 
+            null
+        ]
+    }
+}
