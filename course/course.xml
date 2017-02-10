@@ -1,4 +1,4 @@
-<course course_image="Molecular Fluorescence Spectroscopy.jpg" display_name="Molecular Fluorescence Spectroscopy" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-30T00:00:00+00:00&quot;">
+<course advertised_start="Anytime" course_image="Molecular Fluorescence Spectroscopy.jpg" display_name="Molecular Fluorescence Spectroscopy" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-30T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="_Introduction_to_the_fluorescence_spectroscopy_principle__"/>
   <chapter url_name="_Familiarization_with_the_fluorescence_instrumentation_"/>

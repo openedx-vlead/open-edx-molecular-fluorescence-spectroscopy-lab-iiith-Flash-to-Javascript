@@ -1,5 +1,6 @@
 {
     "course/course": {
+        "advertised_start": "Anytime", 
         "course_image": "Molecular Fluorescence Spectroscopy.jpg", 
         "discussion_topics": {
             "General": {
